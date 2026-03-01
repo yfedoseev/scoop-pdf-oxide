@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/yfedoseev/pdf_oxide/releases/download/v0.3.11/pdf_oxide-windows-x86_64-0.3.11.zip",
-            "hash": "7e1cf263d79cf48cb883b050631eae438faabb1c400cf1fdce791553be7be339"
+            "hash": "a66ba8590da40ac4c7a2dd302bb9d66c768d2bae28999bab65d8cc5783414dc3"
         }
     },
     "bin": "pdf-oxide.exe",
