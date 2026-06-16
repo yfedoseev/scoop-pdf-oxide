@@ -1,12 +1,12 @@
 {
-    "version": "0.3.64",
+    "version": "0.3.65",
     "description": "The fastest PDF toolkit — extract text, images, metadata, and more",
     "homepage": "https://github.com/yfedoseev/pdf_oxide",
     "license": "MIT|Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/yfedoseev/pdf_oxide/releases/download/v0.3.64/pdf_oxide-windows-x86_64-0.3.64.zip",
-            "hash": "6c5ef131c9b66d3ad0d8264bc0cf9cbc6100928bec2336c3772d9fbd2c096e41"
+            "url": "https://github.com/yfedoseev/pdf_oxide/releases/download/v0.3.65/pdf_oxide-windows-x86_64-0.3.65.zip",
+            "hash": "33016fae8329e9f57ba8bb0c505d0c8203670883e8e5cec7d659d5238eb6f197"
         }
     },
     "bin": "pdf-oxide.exe",
